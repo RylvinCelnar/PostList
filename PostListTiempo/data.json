@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "Facebook",
+      "definition": "Facebook is primarily a social networking site that enables users to connect with friends, family, and communities.",
+      "image": "./assets/facebook.png"
+    },
+    {
+      "id": 2,
+      "title": "TikTok",
+      "definition": "Launched in 2016 by the Chinese company ByteDance, it has gained immense popularity for its engaging content and user-friendly interface.",
+      "image": "./assets/tiktok.png"
+    },
+    {
+      "id": 3,
+      "title": "Instagram",
+      "definition": "Instagram allows users to upload and share photos and videos, which can be edited with various filters and effects. ",
+      "image": "./assets/ig.png"
+    },
+    {
+      "id": 4,
+      "title": "Shopee",
+      "definition": "Shopee is a leading online shopping platform that specializes in e-commerce, catering to a wide range of products and services.",
+      "image": "./assets/shopee.png"
+    },
+    {
+      "id": 5,
+      "title": "Lazada",
+      "definition": "Lazada was founded by Maximilian Bittner in 2012, with the aim of creating an Amazon-like marketplace in Southeast Asia.",
+      "image": "./assets/lazada.png"
+    },
+    {
+        "id": 6,
+        "title": "Iphone",
+        "definition": "iPhones run on Apple's iOS, which is known for its smooth performance, user-friendly interface, and regular updates.",
+        "image": "./assets/iphone.png"
+      },
+      {
+        "id": 7,
+        "title": "Github",
+        "definition": "GitHub is a web-based platform that facilitates software development and version control using Git. It allows developers to store, manage, and collaborate on code projects.",
+        "image": "./assets/github.png"
+      },
+      {
+        "id": 8,
+        "title": "Youtube",
+        "definition": "YouTube is a popular online video sharing platform that allows users to upload, view, and share videos.",
+        "image": "./assets/youtube.png"
+      },
+      {
+        "id": 9,
+        "title": "Paymaya",
+        "definition": "With features like high-interest savings accounts, instant loans, credit cards, and QR payments, Maya aims to provide a seamless financial experience for its users.",
+        "image": "./assets/paymaya.png"
+      },
+      {
+        "id": 10,
+        "title": "Visual Studio Code",
+        "definition": "VSCode is available on Windows, macOS, and Linux, allowing developers to use it on their preferred operating systems.",
+        "image": "./assets/vscode.png"
+      }
+  ]
